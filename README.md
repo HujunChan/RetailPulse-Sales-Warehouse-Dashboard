@@ -40,6 +40,9 @@ The dashboard focuses on tracking the following core metrics:
 * **Sales by Category & Region:** Performance breakdown by dimension.
 * **Monthly Sales Trend:** Time-series analysis of revenue.
 
+<img width="1920" height="1080" alt="Screenshot 2026-01-24 024135" src="https://github.com/user-attachments/assets/2971ff1a-5f1e-4598-a504-8fb24a1bfade" />
+
+
 ##  How to Run
 
 ### Prerequisites
