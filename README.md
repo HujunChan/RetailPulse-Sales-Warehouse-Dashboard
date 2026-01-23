@@ -1,4 +1,4 @@
-<img width="1919" height="990" alt="Screenshot 2026-01-24 024135" src="https://github.com/user-attachments/assets/cc943bbe-41f0-4b8d-a177-3ff411132f5c" /># RetailPulse — Sales Warehouse & KPI Dashboard
+# RetailPulse — Sales Warehouse & KPI Dashboard
 
 **RetailPulse** is a beginner-friendly data engineering project that demonstrates a complete end-to-end ETL workflow. It processes raw retail data to generate actionable insights through a centralized warehouse and interactive dashboard.
 
