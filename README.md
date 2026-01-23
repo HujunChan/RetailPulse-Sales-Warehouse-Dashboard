@@ -52,8 +52,8 @@ The dashboard focuses on tracking the following core metrics:
 
 1. **Clone the repository**
 ```bash
-git clone https://github.com/yourusername/retailpulse.git
-cd retailpulse
+git clone Nischal-Agrawal/RetailPulse-Sales-Warehouse-Dashboard.git
+cd RetailPulse-Sales-Warehouse-Dashboard
 
 ```
 
